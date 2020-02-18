@@ -4,7 +4,7 @@ This repo stores Python Notebooks containing tutorials and demonstrations that w
 
 To get started,  you will want to make sure that you have a working distribution of the latest Python 3 version (currently version 3.7) running, as well as Jupyter Notebooks.  For new users, the simplest and easiest way to get going is to [install Anaconda](https://www.anaconda.com/download).
 
-For those of you who prefer to work in Matlab, please refer to [CVX](http://cvxr.com/cvx/), and in particular the [Documentaion](http://web.cvxr.com/cvx/doc/) and [Examples](http://cvxr.com/cvx/examples/) pages for comparable material.
+For those of you who prefer to work in Matlab, please refer to [CVX](http://cvxr.com/cvx/), and in particular the [Documentation](http://web.cvxr.com/cvx/doc/) and [Examples](http://cvxr.com/cvx/examples/) pages for comparable material.
 
 For those of you who prefer to work in Julia, please refer to [Convex.jl](https://www.juliaopt.org/Convex.jl/stable/), and in particular the [Tutorial](https://www.juliaopt.org/Convex.jl/stable/quick_tutorial/) and extensive examples (listed in the left hand menu) for comparable material.
 
